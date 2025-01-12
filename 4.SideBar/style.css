@@ -23,7 +23,7 @@ body {
     top: 0;
     left: 0;
     color: white;
-    display: none;
+    /* display: none; */
 }
 
 .logo {
@@ -77,6 +77,8 @@ body {
 
 .social-links {
     margin: 20px 0;
+    position: absolute;
+    bottom: 0;
 }
 
 .social-links ul {
